@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 10%;
+  width: 60%;
+  border: 1px solid blue;
+  background-color: linear-gradient(to top, blue, green);
+}
+
+.search-box {
+  width: 70%;
+  color-interpolation-filters: auto;
+}
